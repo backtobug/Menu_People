@@ -31,6 +31,7 @@ h3 {
     max-width: 700px;
     /* height: auto; */
     height: 100vh;
+    min-height: 950px;
     margin: 0 auto;
     background-color: rgba(199, 196, 191, 0.582);
 }
