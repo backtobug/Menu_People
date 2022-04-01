@@ -29,7 +29,8 @@ h3 {
 
 .container {
     max-width: 700px;
-    height: 100vh;
+    /* height: auto; */
+    height: 110vh;
     margin: 0 auto;
     background-color: rgba(199, 196, 191, 0.582);
 }
