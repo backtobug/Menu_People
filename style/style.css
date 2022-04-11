@@ -101,3 +101,7 @@ h3 {
     text-align: center;
     font-weight: bold;
 }
+
+.link-active {
+    box-shadow: 0 0 3px black;
+}
