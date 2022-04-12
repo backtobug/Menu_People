@@ -29,9 +29,9 @@ h3 {
 
 .container {
     max-width: 700px;
-    /* height: auto; */
+    height: auto;
     height: 100vh;
-    min-height: 950px;
+    /* min-height: 950px; */
     margin: 0 auto;
     background-color: rgba(199, 196, 191, 0.582);
 }
@@ -104,4 +104,8 @@ h3 {
 
 .link-active {
     box-shadow: 0 0 2px black;
+}
+
+.long-page {
+    min-height: 950px;
 }
