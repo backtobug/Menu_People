@@ -7,6 +7,7 @@ body {
     font-size: 16px;
     color: #333;
     background-color: rgb(199, 196, 191);
+    height: max-content;
 
 }
 
